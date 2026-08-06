@@ -47,7 +47,6 @@ Paint brush holder
 ## Repository Structure
 - `src/`  Fusion 360 project sources
 - `production/` Production File
-- `Render/` for Render Sources
 
 
 ## CAD 
