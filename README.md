@@ -4,7 +4,7 @@
 </h1>
 <div align="center">  
   
-[![Hack Club beest](https://img.shields.io/badge/Hack%20Club-Beest-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://beest.hackclub.com)
+[![Hack Club forge](https://img.shields.io/badge/Hack%20Club-forge-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://forge.hackclub.com)
 
 </div>
 
@@ -37,6 +37,7 @@ Paint brush holder
 
 </p>
 
+## printable like: https://www.printables.com/model/1801522-paint-brush-holder 
 ## About the Project
 
 **Paint brush holder**: It is 3d printable Holder to hold Paint brush and help to dry without touching other Brush and intermix color.
@@ -118,7 +119,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 ## Credits
-This project was created during a [Hack Club](https://hackclub.com) event [Beest](https://beest.hackclub.com).
+This project was created during a [Hack Club](https://hackclub.com) event [forge](https://forge.hackclub.com).
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Blender](https://www.blender.org)** - Render
 - **[Bambu Studio](https://bambulab.com/en/download/studio)** - Slicing the Model
