@@ -46,6 +46,9 @@ Paint brush holder
 - Artist 
 - Hobbyist painters.
 
+## why i made this?
+### My Sister hobby is making painting and while painting she often put the brush on table which make the both table and brush dirty. For solution I make this project 
+
 ## Repository Structure
 - `src/`  Fusion 360 project sources
 - `production/` Production File
