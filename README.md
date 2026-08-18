@@ -34,7 +34,11 @@ Paint brush holder
 <br>
 <br>
 <p align=center>
-<img alt="banner" src="https://github.com/user-attachments/assets/6f3e355f-86b0-4938-bd57-349be77c8219" width=100%/>
+<img alt="demo-video" src="https://github.com/user-attachments/assets/a3f2a6d7-63bf-4e95-a81f-cd6ef587ddc8" width=100%/>
+
+
+
+
 
 </p>
 
